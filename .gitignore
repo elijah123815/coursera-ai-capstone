@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+peer-assignments/
+wget-log
+
+# Data
+*.zip
+*data*/
+Negative/
+Positive/
+
+# Models
+*.h5
